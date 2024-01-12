@@ -26,3 +26,20 @@ The primary objective of this project is to illustrate the significance of wirel
 <b> Network Topology Created</b>
 
 The network topology below satisfy the user requirements above and everything is verified, tested and working fine. 
+
+<p align="center">
+Enterprise Network of a Campus: <br/>
+<img src="https://imgur.com/BBAZwmf.png" height="110%" width="110%" alt="Disk Sanitization Steps"/>
+<br />
+<AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
